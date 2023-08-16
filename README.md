@@ -66,7 +66,7 @@ https://github.com/manc1n1/svg-logo-maker/assets/18316547/3a2e994e-8d6a-4c1a-b52
     node index.js
     ```
 
-3. Refer to [video]()
+3. Refer to [video](https://drive.google.com/file/d/1i-A0VWMDI6v1o0NdStcbXWr0CHLe1AKv/view?usp=drive_link)
 
 ## Tests
 

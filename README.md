@@ -15,6 +15,8 @@ Object-oriented Programming Challenge: SVG Logo Maker
 -   Generate a SVG logo with Node.js
 -   Demo [video](https://drive.google.com/file/d/1i-A0VWMDI6v1o0NdStcbXWr0CHLe1AKv/view?usp=drive_link)
 
+https://github.com/manc1n1/svg-logo-maker/assets/18316547/3a2e994e-8d6a-4c1a-b522-486fc9a7856b
+
 ## Table of Contents
 
 -   [Installation](#installation)

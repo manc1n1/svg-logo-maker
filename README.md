@@ -108,19 +108,3 @@ Don't forget to give the project a star! Thanks again!
 [nodejs-url]: https://nodejs.org/
 [jestjs]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest
 [jestjs-url]: https://jestjs.io/
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
